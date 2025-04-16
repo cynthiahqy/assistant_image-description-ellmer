@@ -1,3 +1,7 @@
+## Setup
+
+Follow ellmer instructions for connecting to Gemini: <https://ellmer.tidyverse.org/reference/chat_gemini.html>
+
 
 ## Prompt Notes
 Specifying the 'style type' of the image changes the type of text that comes back.
